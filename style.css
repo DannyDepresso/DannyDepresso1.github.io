@@ -1,0 +1,21 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,700,600,300,800);
+
+body {
+  font-weight: 300;
+  color: #fff;
+  background: linear-gradient(to bottom right, #0087c5, rgb(255, 255, 255));
+  background-repeat: no-repeat;
+}
+#wrapper {
+  height: 100vh;
+  width: 100vw;
+}
+#button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 200px;
+  border: none;
+  color: white;
+  padding: 14px 28px;
+}
